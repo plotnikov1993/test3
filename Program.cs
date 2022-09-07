@@ -8,9 +8,11 @@ for (int i = 0; i < array.Length; i++)
 Console.WriteLine();
 for (int i = 0; i < array.Length; i++)
 {
+    string n;
     if (array[i].Length <= 3)
     {
-        Console.Write(array[i] + " ");
+        n = array[i];
+        Console.Write(n + " ");
     }
 }
 }
