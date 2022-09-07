@@ -6,4 +6,4 @@
 
 4)выводим элементы массива которые меньше или равны "3" символам
 
-![схема](https://github.com/plotnikov1993/test2/blob/main/2.jpg)
+![схема](https://github.com/plotnikov1993/test3/blob/main/2.jpg)
